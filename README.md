@@ -1,2 +1,4 @@
 # Two-Body-Simulation
-This simple programme consists in a simulation of a two body problem with Euler Method. Although this method is noticeably inefficient in terms of energy conservation, it was specifically requested by the professor. The first part of the programme suggest quick initial values to perform the simulation with some planets, sartellites and cometes of the solar system. The orbits are drawn and the three Kepler's laws are verified.
+This project is a simulation of the two-body problem using the Euler Method. While this method is known for its poor energy conservation, its use was specifically requested for this assignment.
+
+The program includes pre-set initial values for various planets, satellites, and comets within the Solar System. It visualizes the resulting orbits, predicts whether they are bounded or unbounded, and provides a numerical verification of Kepler’s Second and Third Laws.
